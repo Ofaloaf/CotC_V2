@@ -1,0 +1,132 @@
+	occitan = {
+		first_names = {
+			August Adrian Antonin Avit Aristòtel Andrieu Arnaut Anfós Alexandre Agustin Alèxi Armand
+			Brut Bernat Berenguièr Beneset Bonifaci
+			Claudi Cesar Constantin Constanci Carles Clamenç Ciprian Cesari
+			Dàvid
+			Emilian Edoard Enric Estève Eugèni
+			Fermin Felip Fèlix Frederic Folco Francés
+			Gregòri Gilabert Guilhèm
+			Imbert Ipolit
+			Joan "Joan-Luc" Juli Josèp Just "Joan-Marc"
+			Luc Leon Loís
+			Marc Matèu Marcellin Maurici Martin
+			Norbert Nicolau
+			Onèst Otz Onòri
+			Pau Pèire Plini Pascal
+			Raimon Rogièr Roman
+			Sarnin Septimi Sicard Silvèstre Severin Simmac Sèrgi
+			Tomàs Teodòsi Teodòr Teofil
+			Victor
+			Xavièr
+		}
+		last_names = {
+			Alaman "d'Albi" "d'Agde" Alibèrt Arbaud "d'Aurenja" "d'Alfar" Algais Aragones Arces "d'Aspel" Aubert "d'Artanhan" Amont Ayrinhac "d'Astròs"
+			Brueis "de Besièrs" "de Borbon" "del Brolh" "de Bollon" Bonassa Bartas "de Belmont" "de Balencs" Berland Bordièu Barton Barteta
+			Campnerx "de Comenge" "de Carcassona" "de Casaus" "de Cabaretz" "de Castelou" "lo Cardenals" "de Castelbo" "de Cambrais" Cavalièr "de Camelat" Cassoulet
+			Devoluy Daudet "de Dia" "de Durban" Desporrins
+			"d'Escorralha"
+			Ferrèr "de Fois" "lo Frizos" "de Fondevila" "de Fontans"
+			Giera Guédiguian Goloens "de Guinsestre" "de Gorgas" "de Gassion" Grossac
+			Izarns "de la Isla"
+			Javaloyès "dels Juratz" "de Jeliòt"
+			Lafont "de Laens" "de Luzia" "de Lhivro" "lo Laine" Labarrèra Lassala Lespin Leclercq Larada Lavit
+			Martis "de Montpelhièr" "de Montmorency" "de Mozencs" Mascaro Mirs "de Marca" Manciet
+			Nogaròu "de Nimes" "de Nagor" "de Nouvila" "de Niela" Navarròt
+			Orteig "d'Olitz" "d'Onges"
+			Panhòl "de Pontos" "de Peirigorc" "del Pueh" "de Peitieus" Polidor Palai Peiret "deu Peirèr" Pueyrredon Pelisson Peirotet Pambrun
+			Romanilha "de Rabastencs" Rotgeirs "de Rocafolhs" "deu Riu"
+			Serres "de Suffren" "de Senuc" "de Sent Beat" "de Seguret" "de Santas" "de Sent Just" "de Saissi" Sicres "de Salvanhac" "de Saleta"
+			Trencavel "de Tintinhac"
+			"des Ursins"
+			Vairon "de Vezis"
+		}
+	}
+
+	colonial = {
+		first_names = {
+			Aaron Abraam Abèl August Adrian Aristòtel Andrieu Anfós Alexandre Agustin Alèxi
+			Benjamí
+			Cesar Carles Clamenç Cornelha
+			Dàvid
+			Elièzer Edoard Emilian Estève Eugèni
+			Felip Fèlix Frederic Francés
+			Gregòri Guilhèm
+			Ismaèl Isaac Ipolit
+			Judà Jacme Juli Josèp Just Jacòb
+			Leví Leon Loís
+			Moïses Marc Miquel Matèu Manases Marcellin Maurici Martin
+			Nicolau
+			Pau Pèir Platon Pascal
+			Rubèn Roman
+			Septimi Silvèstre Severin Sèrgi
+			Tomàs Tibèri Teodòr Teofil
+			Victor
+			Xavièr
+			Zabuló Zacarià
+		}
+		last_names = {
+			Amaneus Aubert Abadia Adèr Arnaudin
+			Bonassa Bartas Berland Blanc Bochard Blader Boya Bèc Bedot 
+			Cavalièr Castex
+			Didacus Dadòr Delseny Daugèr Dulau Dadòr
+			Ferrèr
+			Goloens Gojàs Giraud
+			Lacor Lanusse Loustau
+			Mascaro Milos Mirs Malleo
+			Navarres
+			Polidor Pichòt Peiret Py Pueyrredon
+			Rotgeirs Ricals Rotlans
+			Serres Sevis Sicres
+			Tinhos
+			Verdièr Vigèr
+		}
+	}
+	
+	
+	scots = { # actual Scots??
+		first_names = {
+			Andra Alexander Archibald Adam Alan Arthur
+			Bartholomew Bonaventure
+			Charles Craig Claud Christopher Christian Colin Constantine Conall
+			Domhnall Donald David Daniel Dugald
+			Edward Edmund Edgar
+			Fothad Frederick Francis
+			Gilbert Gavin George
+			Henry Hugh
+			Ingram
+			James John Joseph Justin
+			Kenneth
+			Lazarus Lockhart
+			Malcolm Matthew
+			Norman
+			Peter Philip Patrick
+			Robert
+			Séamus Samuel
+			Thomas Turgot
+			Walter William
+		}
+		last_names = {
+			Adamson Abercromby Anderson Aitchison Alston Arnott Abernethy Adair Agnew Aikenhead Ainslie Aiton Allardice Anstruther Arbuthnott Armstrong Auchinleck
+			Bruce Blane Burns Brackenridge Burley Boyd Balfour Balnaves Bannatyne Bean Beaton Bellenden Blackwood Baillie Barclay Blackadder Brown Burnett Blair Brewster Broadwood Brodie Baird Beattie Broun Bannerman Baxter Bissett Borthwick Brisbane Buchan Buchanan Butter Byses
+			Campbell Cameron Cleland Cant Cargill Cockburn Cunningham Carmichael Cadell Calderwood Chalmers Chambers Calder Cairns Callender Carnegie Carruthers Cathcart Charteris Cheyne Chisholm Clephane Colquhoun Congilton Cranstoun Crawford Crichton Crosbie Cumming
+			Dalrymple Drummond Dunbar Douglas Dick Dickson Dundas Dunlop Duncan Dickie Dalmahoy Dennistoun Deward Donnachaidh Durie
+			Elphinstone Erskine Edmonstone Eliott Ewing
+			Forrest Fleming Forbes Fithie Forrester Fraser Ferriar Fordyce Forsyth Fullarton Faulds Fergusson Fairlie Falconer Fenton Fletcher Fotheringham Fullarton Fuller
+			Graham Gordon Geddes Gillespie Garnock Gilmour Govan Greig Guthrie Gerard Gilchrist Gladstone Gifford Goodsir Gower Galloway Galbraith Gardyne Gartshore Gayre Ged Gibsone Gladstains Glas Glendinning Gregor Grierson Gunn
+			Hepburn Hamilton Home Hope Hume Henderson Hackston Henderson Hog Halket Hall Houstoun Hunter Haig Haldane Haliburton Halkerston Halket Hall Hannay Heron Herries Hopkirk Horsburgh Hutton
+			Inglis Imray Innes Irvine
+			Johnston Jamieson Jardine
+			Kennedy Kidd Keith Kerr King Kid Keir Knox Kelly Kincaid Kinloch Kinnaird Kinnear Kinninmont Kirkcaldy Kirkpatrick
+			Lawrence Lyndsay Livingston Leslie Law Learmont Leighton Lin Lindsay Lumsden Laing Lauder Laurie Loudon
+			MacNeachdainn McCrorie McAdam Maitland Major MacGregor Maxwell Moray Morison Murray Macaulay Mitchell Munro Mackay Macfarquhar Mallet Masson Meikle Melvill Morton Macdonald Macfayden Macfarlane MacGillvray Mackenzie Macleod Maclaren Muirhead
+			Nevay Nisbey Nairne Nasmyth Nicol
+			Ogilvie
+			Peebles Peden Potter Porteous Pringle
+			Ross Roxburgh Ramsay Rutherford Renwick Riddell Rae Roy Russell Robertson
+			Strath Stewart Seton Sutherland Scot Shields Spence Spreul Selkirk Sibbald Skirving Smellie Skinner Slight Stenhouse Stevenson Stirling
+			Templeton Tennant Thomson Traill Torrie Traill Traquair
+			Urquhart
+			Wardlaw Wishart Wood Wilson Welsh Walker Webster
+		}
+	}
