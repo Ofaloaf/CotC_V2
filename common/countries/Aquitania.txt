@@ -1,0 +1,297 @@
+color = { 150 80 170 }
+proletarian_dictatorship = { 189 0 0 }
+graphical_culture = FrenchGC
+
+party = {
+	name = "AQI_reactionary"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "AQI_conservative"
+	start_date = 1830.1.1
+	end_date = 1881.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "AQI_conservative_2"
+	start_date = 1880.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "AQI_liberal"
+	start_date = 1830.1.1
+	end_date = 1890.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "AQI_liberal_2"
+	start_date = 1889.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "AQI_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "AQI_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism #planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "AQI_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+#party = {
+#	name = "AQI_anarchist"
+#	start_date = 1848.1.1
+#	end_date = 2000.1.1
+#
+#	ideology = anarchist
+#
+#	economic_policy = autogestion
+#	trade_policy = protectionism
+#	religious_policy = pro_atheism
+#	citizenship_policy = full_citizenship
+#	war_policy = pacifism
+#}
+
+party = {
+	name = "AQI_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+# http://lengadoc.chez.com/lexic_medieval.htm
+
+unit_names = {
+	battleship = {
+		# BEST OF THE BEST
+
+		Atlas Augustus Aquitania
+		Blos Berig
+		Cabalós Celestial Champion
+		Hyperion
+		Occitania 
+		Rhodanus Rhenus
+		Tolosa
+	}
+	cruiser = {
+		# geography, toponyms. Some in Occitan, some in Latin, I don't care, fight me irl
+
+		Auvernhe Agarnagués
+		Bearn Bordalés Berric Brulhés Brinholenc Bigòrra
+		Carcin Cantal Cabardés Carladé Castanhau Castré Cevenas Combralha Comenge Crau
+		Diés Donasan
+		Engolmés Esterèu
+		Fois Fenolhedés Frontonés
+		Guiana Gapencés Gavardan Gimoés
+		Lavedan Liborné Lomanha
+		Montpelhierenc Medòc Marjarida Maremne Mauriagués
+		Novempopulania Narbonés Nebosan
+		Oesen
+		Périgord Peitau Planesa	
+		Quercòrb
+		Rasés Rebairagués
+		Santafrican Savés Segalar Sisteronenc
+		Tolosan Tolonenc Tursan Tèrrafort
+		Ubaia 
+		Vivarés Vendea Varossa Vasadés Vencenc Viadèna Volvèstre
+	}
+	dreadnought = {
+		# National names, historical names. Appropriate Gallic history!
+
+		Ambiorix Ariovistus Alesia Arvernia Aegidius Alaricus
+		Blanchejar # fr. 'Blanchoyer', "having a white reflection".
+		Blanquet # "teinture blanche".
+		Bresilianda # Broceliande
+		Commius Cassivellaunus Colossus Cisalpina "Comtat Pol"
+		"Flavius Syagrius" # eh heh heh
+		Gothia Guerrejador
+		Indutiomarus
+		"Lidia Imperatrix"
+		Magetobriga "Maxima Sequanorum"
+		Ouim Orgetorix
+		Septimania
+		Témerres
+		Vercingetorix
+	}
+	ironclad = {
+		# just some shit
+
+		Angelus Artemis Astraea
+		Beluga Berart Blezo "Bon Comtat"
+		Cairèl Carnalatge Carestia Caudièira Cavalgada Certana Cavalairia Celar Chino Clarenz Compenha Combatre Començador Complidor Conhac Coras Croissa Chaçador 
+		Deliurièr Deljat Desconoissent Dessenat Destrièr
+		Entendedor Entendent Envasiment Entresenha Eschalon Escarit Esclerata Escondit Ermerilho
+		Falco Faidir Forcenat Frairalha
+		"Grant Denhar" Galataea Glasi Guions Guis Guischarda
+		Hephaestus
+		Iosephus Isaacius Iseut
+		Jangolhar
+		Pegasus Phoebe
+	}
+	monitor = {
+		# I will avoid building these
+
+		Gal Ausonia Arius Nemesis Senatus Auzelhon Ferris Ulfilas Devedar Argentia Defensalha Franc Desplaser Porcelana Victòria 
+	}
+	commerce_raider = {
+		# People's names, plus a few misc. terms. I tried to keep a record of minister names during EU4, but did a very poor job of it.
+		"Aubrey Fanshawe"
+		"Bruno d'Ossagor"
+		"Filipot de Segret" "Filip Flehutin"
+		"Galhardus Besten"
+		"Joan de Tilh" "Jacme Dornat" "Josèp Sepet"
+		"Nicholas Frobisher"
+		"Pèire Elbira" "Pau Blount"
+		"Rorgues Cathèrine"
+		"Sibylle de Valois"
+		"Thomé Aribert"
+		"Vicenç Ayceli"
+		"Xavièr Amont" "Xavièr de Papasol"
+
+		Asteria Puella "Barral de Fulhonibus" "Sidoni Apollinar" Dompnejar Cembelís 
+		Bernardon Folheta Charetier Lobaton
+	}
+	manowar = {
+		# just some shit. Partially EU4 ship names.
+
+		Angeus Angellina Alexandria Auster Aquilo
+		Camelopardus Cleopatràs 
+		Drechura "Dieu-Vos-Salv"
+		Escharida Estragat Eurus
+		Fidip Favonius
+		Lugdunum Lisetta Ludna
+		Mondetta "Marc Antoni"
+		Oceanus
+		Palamedes Ptolemeus
+		Septentrio
+		"Tit Labienus"
+	}
+	frigate = {
+		# just some shit. Partially EU4 ship names.
+
+		Abat Aberrant Absolutista Augustodunum Acs Aigar Altasvaus Anhès Anfós Aost Arat Argento Artús Asimant Arramon Apeliotes Argestes Aparctias Aura Azanias
+		"Bon Ademar" Bacalar Baudoïn Berbiç Blandida Barbara "Bon Conselh"
+		Capacitat Copiosament Chanzi Congrenz Contença Cranc Cròi Cybele
+		Desmentir Dimartz "Dire d'Òc" Dompnejant Dindymon
+		Eissarrat Enançament Endura Esquiu Esquina Esquerrièr Ensenhar Esterlin Estorn Estrenar Euroauster Eleutheria
+		Faüra Febrièr Felip Fenhedor
+		Galene Germanus Georgius Gregorius Gerontius Gladius
+		Helena Hyacinthus
+		Iapyx
+		Libonotus
+		Marcabru Meduana Meses
+		Olympias Octavius
+		Peregrinus Phoenicias Periboia Pallene Pallas
+		Rheia
+		"Sant Astier" "Sent Andrieu" "Sant Joan" "Sant Pau" "Sant Pèire" "Sant Marc" "Sant Luc" "Santa Crotz" "Santa Romana" "Senta Maria" "Sant Gabriel" "Sant Miquel" Sciron Salomon Symmachus Simplicius "Sant Genars"
+		Thrascias
+		Vulturnus
+	}
+	clipper_transport = {
+		# Peoples of places. Er, uh, demonyms, yeah that's the word. Also a few foreign toponyms.
+
+		Ascalonia Accra Attica
+		Benaujés Bergonhon Besaundunés Braiman
+		Castrasoritz Castela Campanesa Coberha Corozana Cremona
+		Damiata Durtz
+		Englés Engolmés Escut Espanhòl Estrongolar
+		Gasco Gauceran Grec
+		Heliopolis
+		Memphis
+		Persepolis
+		Thebes
+	}
+	steam_transport = {
+		# ???
+
+		Chantador Cortejador Corredor Chalonhar
+		Donzèl Donador Dobtança
+		Enginhador
+		Florit Folpidor
+		Gabador Galhart
+		Joglar
+	}
+}

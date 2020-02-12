@@ -1,0 +1,6 @@
+owner = AQI
+controller = AQI
+add_core = AQI
+add_core = CAT
+trade_goods = grain
+life_rating = 31
