@@ -88,6 +88,46 @@
 		}
 	}
 	
+	afro_colonial = {
+		first_names = {
+			Aurèli Agustin Aristòtel Alexandre Apollinar
+			Boeci Benexet
+			Cèls Carles Cesar 
+			Diogènes Democrit Domenge
+			Epictet Estève Eugèni
+			Gaou Guilhèm
+			Hermas
+			Ipolit Ireneu
+			Loís Leon
+			Marc Miquel Matèu Manases Martin Moïses
+			Nicolau
+			Platon Pompèu Pau Pèir Ptolemèu Policarp
+			Thomé Tibèri Teodòr Teofil
+		}
+		last_names = {
+			Auger Adéoti Ayé Agostini Arcos
+			Brunet Bart Blanc Borno Bayo Borrego Barret Bárcena Bosch Brull Banquells Brú
+			Cocpon Cochard Cubela Chibás Carpentier Carbonell Cugat Cardona Culmell Carvajal
+			Dardra Doffra Dajatche Duclos Dagba Déjoie Dodard Delmesle Duval
+			Espín Estefan
+			Finlay Feliú
+			Geffrard Grobart Guillén Güell Guillot Guevara Goizueta
+			Hudicourt Heredia Herrera Hevia
+			Inginac Inchausti
+			Jaquin Juida Juantorena
+			Lora
+			Manigat Milscent Mella Marin Miret Masó Menocal Mathurin
+			Nin
+			Pétion País Pazos Poey Pujals Plá Piedra París
+			Raynal Raymond Risquet
+			Salnave Saralegui
+			Tado
+			Unamunsaga
+			Vidal Valls Vilasuso Vivas
+			Zamacés Zayas Zubizarreta
+		}
+	}
+	
 	
 	scots = { # actual Scots??
 		first_names = {
