@@ -151,6 +151,7 @@ unit_names = {
 		Atlas Augustus Aquitania
 		Blos Berig
 		Cabalós Celestial Champion
+		Gallia
 		Hyperion
 		Occitania 
 		Rhodanus Rhenus
@@ -189,11 +190,10 @@ unit_names = {
 		"Flavius Syagrius" # eh heh heh
 		Gothia Guerrejador
 		Indutiomarus
-		"Lidia Imperatrix"
 		Magetobriga "Maxima Sequanorum"
-		Ouim Orgetorix
+		Orgetorix
 		Septimania
-		Témerres
+		Témerres Tetricus
 		Vercingetorix
 	}
 	ironclad = {
@@ -218,16 +218,18 @@ unit_names = {
 	}
 	commerce_raider = {
 		# People's names, plus a few misc. terms. I tried to keep a record of minister names during EU4, but did a very poor job of it.
-		"Aubrey Fanshawe"
-		"Bruno d'Ossagor"
-		"Filipot de Segret" "Filip Flehutin"
-		"Galhardus Besten"
+		"Aubrey Fanshawe" "Alcèu de Laureda"
+		"Bruno d'Ossagor" "Bernardus de Mynho"
+		"Eugèni Brun"
+		"Filipot de Segret" "Filip Flehutin" "Francés Vigoros" "Folc Maurel"
+		"Galhardus Besten" "Guirat de Mersier"
 		"Joan de Tilh" "Jacme Dornat" "Josèp Sepet"
 		"Nicholas Frobisher"
 		"Pèire Elbira" "Pau Blount"
 		"Rorgues Cathèrine"
 		"Sibylle de Valois"
 		"Thomé Aribert"
+		"Udalard Sunyer"
 		"Vicenç Ayceli"
 		"Xavièr Amont" "Xavièr de Papasol"
 

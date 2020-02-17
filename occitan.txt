@@ -45,7 +45,7 @@
 
 	colonial = {
 		first_names = {
-			Aaron Abraam Abèl August Adrian Aristòtel Andrieu Anfós Alexandre Agustin Alèxi
+			Aaron Abraam Abèl August Adrian Aristòtel Andrieu Anfós Alexandre Agustin Alèxi Amadeus
 			Benjamí
 			Cesar Carles Clamenç Cornelha
 			Dàvid
@@ -66,17 +66,22 @@
 			Zabuló Zacarià
 		}
 		last_names = {
-			Amaneus Aubert Abadia Adèr Arnaudin
-			Bonassa Bartas Berland Blanc Bochard Blader Boya Bèc Bedot 
-			Cavalièr Castex
-			Didacus Dadòr Delseny Daugèr Dulau Dadòr
-			Ferrèr
-			Goloens Gojàs Giraud
-			Lacor Lanusse Loustau
-			Mascaro Milos Mirs Malleo
-			Navarres
-			Polidor Pichòt Peiret Py Pueyrredon
-			Rotgeirs Ricals Rotlans
+			Amaneus Aubert Abadia Adèr Arnaudin Anouilh Astruc Arman Atias
+			Bonassa Bartas Berland Blanc Bochard Blader Boya Bèc Bedot Bardac Berquin Beydts Bracq Bez
+			Cavalièr Castex Cayrol Capdenat Cessac Comettant Cruchet
+			Didacus Dadòr Delseny Daugèr Dulau Dadòr Deluga Dalmier Dupas Dupérac Dutriac
+			Eyt Ellul Enjalbert Etcherelli
+			Ferrèr Feltin Fader Fel Fonsèque 
+			Goloens Gojàs Giraud Grosvenor Gorges Guilbert Galipaux Grech Gillet
+			Iffla
+			Josfredus Jautard Justamant Juzeau
+			Kergomard
+			Lacor Lanusse Loustau Lacombe Laclavetine Laparra Lafont Lajarte
+			Mascaro Milos Mirs Malleo Molyneux Millaud Marrot Mauriac Morin Mony Millepied Molinar
+			Navarres Noguès Noulens Netscher
+			Orcibal
+			Polidor Pichòt Peiret Py Pueyrredon Pacareau Percillier
+			Rotgeirs Ricals Rotlans Rivers
 			Serres Sevis Sicres
 			Tinhos
 			Verdièr Vigèr
@@ -86,47 +91,71 @@
 	
 	scots = { # actual Scots??
 		first_names = {
-			Andra Alexander Archibald Adam Alan Arthur
-			Bartholomew Bonaventure
-			Charles Craig Claud Christopher Christian Colin Constantine Conall
-			Domhnall Donald David Daniel Dugald
-			Edward Edmund Edgar
-			Fothad Frederick Francis
-			Gilbert Gavin George
-			Henry Hugh
-			Ingram
+			Andra Alasdair Archibald Adam Alan Arthur Angus Alpin Aaron Arthur Abel
+			Bartholomew Bonaventure Brian Bernard Benedict
+			Charles Craig Claud Christopher Christian Colin Constantine Conall Cuthbert Cormac Clement
+			Domhnall Donald David Daniel Dugald Dermot Duncan
+			Edward Edmund Edgar Eugene
+			Fothad Frederick Francis Fergus Farquhar Findlay Fraser
+			Gilbert Gavin George Gillchrist Gillespie Graham Gordon Godfrey Gregory
+			Henry Hugh Hector Horace Hamish
+			Ingram Ivor Isaac
 			James John Joseph Justin
-			Kenneth
-			Lazarus Lockhart
-			Malcolm Matthew
-			Norman
-			Peter Philip Patrick
-			Robert
-			Séamus Samuel
-			Thomas Turgot
-			Walter William
+			Kenneth Kieran Kevin
+			Lazarus Lockhart Lamont Luke Ludovic Lawrence Lachlan 
+			Malcolm Matthew Myles Milroy Martin Michael Mungo Murdoch Magnus 
+			Norman Nicholas Nechtan Neil
+			Oliver Ossian
+			Peter Philip Patrick Paul Pilkington Parlan  
+			Robert Ronald Ringan Richard Roderick
+			Séamus Samuel Seth Simon Solomon Sorley
+			Thomas Turgot Teague Taskill Theobald Torquil
+			Valentine
+			Walter William Walrick Wishart
+			Zachary
 		}
 		last_names = {
 			Adamson Abercromby Anderson Aitchison Alston Arnott Abernethy Adair Agnew Aikenhead Ainslie Aiton Allardice Anstruther Arbuthnott Armstrong Auchinleck
-			Bruce Blane Burns Brackenridge Burley Boyd Balfour Balnaves Bannatyne Bean Beaton Bellenden Blackwood Baillie Barclay Blackadder Brown Burnett Blair Brewster Broadwood Brodie Baird Beattie Broun Bannerman Baxter Bissett Borthwick Brisbane Buchan Buchanan Butter Byses
+			Bruce Blane Burns Brackenridge Burley Boyd Balfour Balnaves Bannatyne Bean Beaton Bellenden Blackwood Baillie Barclay Blackadder Brown Burnett Blair Brewster Broadwood Brodie Baird Beattie Broun Bannerman Baxter Bissett Borthwick Brisbane Buchan Buchanan Butter Byses Bretnoch Batchelor
 			Campbell Cameron Cleland Cant Cargill Cockburn Cunningham Carmichael Cadell Calderwood Chalmers Chambers Calder Cairns Callender Carnegie Carruthers Cathcart Charteris Cheyne Chisholm Clephane Colquhoun Congilton Cranstoun Crawford Crichton Crosbie Cumming
-			Dalrymple Drummond Dunbar Douglas Dick Dickson Dundas Dunlop Duncan Dickie Dalmahoy Dennistoun Deward Donnachaidh Durie
+			Dalrymple Drummond Dunbar Douglas Dick Dickson Dundas Dunlop Duncan Dickie Dalmahoy Dennistoun Deward Donnachaidh Durie Dilworth
 			Elphinstone Erskine Edmonstone Eliott Ewing
 			Forrest Fleming Forbes Fithie Forrester Fraser Ferriar Fordyce Forsyth Fullarton Faulds Fergusson Fairlie Falconer Fenton Fletcher Fotheringham Fullarton Fuller
 			Graham Gordon Geddes Gillespie Garnock Gilmour Govan Greig Guthrie Gerard Gilchrist Gladstone Gifford Goodsir Gower Galloway Galbraith Gardyne Gartshore Gayre Ged Gibsone Gladstains Glas Glendinning Gregor Grierson Gunn
-			Hepburn Hamilton Home Hope Hume Henderson Hackston Henderson Hog Halket Hall Houstoun Hunter Haig Haldane Haliburton Halkerston Halket Hall Hannay Heron Herries Hopkirk Horsburgh Hutton
+			Hepburn Hamilton Home Hope Hume Henderson Hackston Henderson Hog Halket Hall Houstoun Hunter Haig Haldane Haliburton Halkerston Halket Hall Hannay Heron Herries Hopkirk Horsburgh Hutton Handyside
 			Inglis Imray Innes Irvine
 			Johnston Jamieson Jardine
-			Kennedy Kidd Keith Kerr King Kid Keir Knox Kelly Kincaid Kinloch Kinnaird Kinnear Kinninmont Kirkcaldy Kirkpatrick
+			Kennedy Kidd Keith Kerr King Kid Keir Knox Kelly Kincaid Kinloch Kinnaird Kinnear Kinninmont Kirkcaldy Kirkpatrick Kinloch Kellock
 			Lawrence Lyndsay Livingston Leslie Law Learmont Leighton Lin Lindsay Lumsden Laing Lauder Laurie Loudon
-			MacNeachdainn McCrorie McAdam Maitland Major MacGregor Maxwell Moray Morison Murray Macaulay Mitchell Munro Mackay Macfarquhar Mallet Masson Meikle Melvill Morton Macdonald Macfayden Macfarlane MacGillvray Mackenzie Macleod Maclaren Muirhead
+			MacNeachdainn McCrorie McAdam Maitland Major MacGregor Maxwell Moray Morison Murray Macaulay Mitchell Munro Mackay Macfarquhar Mallet Masson Meikle Melvill Morton Macdonald Macfayden Macfarlane MacGillvray Mackenzie Macleod Maclaren Muirhead MacCallan MacAlpine MacGillivray MacPherson MacCowan MacDowall MacBrayne MacBratney MacGill Magruder Macnab MacNally Montgomerie McIan
 			Nevay Nisbey Nairne Nasmyth Nicol
 			Ogilvie
-			Peebles Peden Potter Porteous Pringle
+			Peebles Peden Potter Porteous Pringle Peploe Pendergast
 			Ross Roxburgh Ramsay Rutherford Renwick Riddell Rae Roy Russell Robertson
-			Strath Stewart Seton Sutherland Scot Shields Spence Spreul Selkirk Sibbald Skirving Smellie Skinner Slight Stenhouse Stevenson Stirling
-			Templeton Tennant Thomson Traill Torrie Traill Traquair
+			Strath Stewart Seton Sutherland Scot Shields Spence Spreul Selkirk Sibbald Skirving Smellie Skinner Slight Stenhouse Stevenson Stirling Stronach Stoddart Scheves
+			Templeton Tennant Thomson Traill Torrie Traill Traquair Taggart
 			Urquhart
 			Wardlaw Wishart Wood Wilson Welsh Walker Webster
+		}
+	}
+	
+	alan = { # Ossetian and Mongol
+		first_names = {
+			Akhsarbek Arsen
+			Barghujin Batraz Besik
+			Chulgetei
+			Elbrus
+			Gaito Guram
+			Irbek Issa
+			Makharbek
+			Ruslan
+			Soslan Soslanbek
+			Torez Tugan Taymuraz
+			Znaur
+		}
+		last_names = {
+			Khetagkaty Khozitiy
+			Okhotur
+			Sartuul
 		}
 	}
